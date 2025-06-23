@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import io
 
 # ========== API CONFIG ==========
-API_KEY = "c6c66e9f2fa9010aa277019a055cbc26"
+API_KEY = "put your api key"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 unit_system = "metric"  # "imperial" for °F
 
