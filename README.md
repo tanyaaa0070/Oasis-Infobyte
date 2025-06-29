@@ -1,7 +1,3 @@
-**🌟 Oasis Infobyte Python Programming Internship** – Project Showcase
-
-This repository contains the projects I completed during the Oasis Infobyte Python Programming Internship. Each project demonstrates my learning and application of core Python concepts, GUI development with Tkinter, and integration with external libraries and APIs.
-
 **✅ Projects Included**
 1. 🧮 Advanced Password Generator GUI
 Generates strong and secure passwords.
@@ -57,5 +53,3 @@ Clone or download the repository.
 
 Make sure Python is installed.
 
-🙌 Acknowledgments
-Grateful to Oasis Infobyte for providing this internship opportunity. It helped me apply practical programming knowledge and strengthen my skills in Python development.
